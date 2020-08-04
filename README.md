@@ -29,3 +29,22 @@
 
 <a href="https://go.microsoft.com/fwlink/?LinkID=620882">CLICK HERE TO DOWNLOAD</a>
 
+<br />
+<br />
+
+<!DOCTYPE html>
+<h1>DOWNLOAD REVOKED APPS 
+<br /> FOR IPHONE</h1>
+<h3>SCROLL DOWN FOR SOLUTION</h3>
+<img src="https://image.shutterstock.com/image-vector/stamp-word-revoked-inside-vector-260nw-205211752.jpg"></txt>
+<img src="https://android.pandahelp.vip/img/pic_img_banner.d154dcc6.png"></ing>
+<br />
+<img src="https://tutuapp-vip.com/wp-content/uploads/2019/09/tutuapp-icon-200-px-2.png"></img>
+<br />
+<img src="https://tutuapp-vip.com/wp-content/uploads/2020/04/appcake-iphone-app.png"></img>
+
+<txt>To download apps that are <br /> revoked by apple for it<br /> you need to go to this website<br />And follow the instructions that the <br /> Website say no human verify<txt>
+<a href="http://ffapple.com">CLICK HERE TO GET NO REVOKE </a>
+
+
+
