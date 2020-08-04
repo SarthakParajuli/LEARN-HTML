@@ -1,4 +1,4 @@
-<!doctype html>
+
 
 <h1> FOR all code Corse-1</h1>
 <txt>So you want to learn code <br />First you need to decide what soft ware you need to code <br />You need a software but I think best software to code<br />is Microsoft visual code <br /><txt>
@@ -10,7 +10,7 @@
 
 
 
-<a href="https://aka.ms/win32-user-stable"><button />Click Here to download</a>
+<a href="https://aka.ms/win32-user-stable">Click Here to download</a>
                   
 
 
@@ -18,7 +18,7 @@
 
 
 
-<a href="https://go.microsoft.com/fwlink/?LinkID=760868"><button />CLICK HERE TO DOWNLOAD</a>
+<a href="https://go.microsoft.com/fwlink/?LinkID=760868">CLICK HERE TO DOWNLOAD</a>
 
 
 
@@ -27,5 +27,5 @@
 
 
 
-<a href="https://go.microsoft.com/fwlink/?LinkID=620882"><button />CLICK HERE TO DOWNLOAD</a>
+<a href="https://go.microsoft.com/fwlink/?LinkID=620882">CLICK HERE TO DOWNLOAD</a>
 
