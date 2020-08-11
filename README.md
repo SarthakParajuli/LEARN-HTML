@@ -53,8 +53,8 @@
 
 SUBSCRIBE ME OK<txt>
 <h1>PORTAL 1<h1>
-<a href=“https://gofile.io/d/16APcU”><button /> DOWNLOAD</a>
+<a href=“https://gofile.io/d/16APcU”> DOWNLOAD</a>
 <br />
 <h1>LAST ENDING PORTAL<h1>
 <br />
-<a href=“https://gofile.io/d/d5Zc5T”><button/>DOWNLOAD</a>
+<a href=“https://gofile.io/d/d5Zc5T”>DOWNLOAD</a>
